@@ -8,6 +8,10 @@ a {
   text-decoration: none;
 }
 
+.container img{
+  width: 900px;
+}
+
 .container{
   width: 1170px;
 }
@@ -39,10 +43,6 @@ a.header-center:hover {
   color: black;
   opacity: 0.8;
   text-align: center;
-}
-
-.container img{
-  width: 900px;
 }
 
 .puroduct-wrapper {
