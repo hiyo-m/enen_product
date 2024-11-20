@@ -21,7 +21,6 @@ header {
   width: 135px;
   margin-top: 20px;  
   margin-left: 100px;
-  float: left;
 }
 
 .header-center:hover {
@@ -30,7 +29,7 @@ header {
 
 .header-center a {
   line-height: 65px;
-  padding: 0 40px;
+  padding: 0 60px;
   color: black;
   text-align: center;
   margin: auto;
