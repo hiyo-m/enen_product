@@ -57,6 +57,12 @@ a.header-center:hover {
   margin: 50px 30px;
 }
 
+.product img{
+  float: left;
+  width: 15%;
+  margin: 50px 30px;
+}
+
 .product-icon {
   position: relative;
 }
