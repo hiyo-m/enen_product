@@ -47,6 +47,12 @@ a.header-center:hover {
   margin: 0 auto;
   width: 85%;
 }
+
+.products {
+  width: 100%;
+  margin: 0 auto;
+}
+
 .product-icon img {
   width: 300px;
 }
@@ -64,11 +70,6 @@ a.header-center:hover {
   width: 25%;
   padding: 0 25px;
   padding-bottom: 40px;
-  margin: 0 auto;
-}
-
-.products {
-  width: 100%;
   margin: 0 auto;
 }
 
