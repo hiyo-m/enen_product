@@ -23,8 +23,12 @@ header {
   margin-left: 100px;
 }
 
+.header-left {
+  float: left;
+}
+
 .header-center {
-  float:center
+  float:　　center
   display: flex;
 }
 
