@@ -19,7 +19,8 @@ header {
 
 .logo {
   width: 124px;
-  margin: 20px;  
+  margin-top: 20px;  
+  margin-left: 100px;
 }
 
 .header-center {
