@@ -8,6 +8,10 @@ a {
   text-decoration: none;
 }
 
+.container{
+  width: 1170px;
+}
+
 header {
   height: 75px;
   width: 100%;
@@ -22,10 +26,6 @@ header {
   margin-top: 20px;  
   margin-left: 100px;
   float: left;
-}
-
-.top-wrapper{
-  width: 700px;
 }
 
 .header-center:hover {
