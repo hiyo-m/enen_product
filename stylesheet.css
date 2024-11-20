@@ -15,17 +15,13 @@ header {
   position: fixed;
   top: 0;
   z-index: 10;
+  text-align: center;
 }
 
 .logo {
   width: 135px;
   margin-top: 20px;  
   margin-left: 100px;
-}
-
-.header-center {
-  float:　　center
-  display: flex;
 }
 
 .header-center:hover {
