@@ -69,11 +69,13 @@ a.header-center:hover {
 }
 
 .products2 {
+  margin: 0 auto;
   display: flex;
   justify-content: center;
 }
 
 .products3 {
+  margin: 0 auto;
   display: flex;
   justify-content: center;
 }
