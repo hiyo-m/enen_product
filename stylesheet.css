@@ -63,7 +63,7 @@ a.header-center:hover {
   position: absolute;
   top: 90px;
   width: 100%;
-  color: white;
+  color: #524748;
 }
 
 .txt-contents {
@@ -71,6 +71,6 @@ a.header-center:hover {
   display: inline-block;
   margin-top: 20px;
   font-size: 12px;
-  color: #b3aeb5;
+  color: #524748;
 }
 
