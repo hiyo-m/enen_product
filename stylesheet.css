@@ -15,7 +15,6 @@ header {
   position: fixed;
   top: 0;
   z-index: 10;
-  text-align: center;
 }
 
 .logo {
@@ -32,4 +31,5 @@ header {
   line-height: 65px;
   padding: 0 40px;
   color: black;
+  text-align: center;
 }
