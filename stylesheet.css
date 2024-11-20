@@ -58,6 +58,10 @@ a.header-center:hover {
   width: 40%;
 }
 
+.product_manju {
+  display: flex;
+}
+
 .product-icon h3{
  font-size: 25px;
   color: #524748;
