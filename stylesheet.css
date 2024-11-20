@@ -29,7 +29,7 @@ header {
 }
 
 .header-center:hover {
-  color: rgba(255, 255, 255, 0.5);
+  opacity: 1;
 }
 
 .header-center a {
@@ -37,5 +37,6 @@ header {
   line-height: 65px;
   padding: 0 60px;
   color: black;
+  opacity: 0.8;
   text-align: center;
 }
