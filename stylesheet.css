@@ -40,3 +40,10 @@ a.header-center:hover {
   opacity: 0.8;
   text-align: center;
 }
+
+.puroduct-wrapper {
+  height: 500px;
+  padding-bottom: 80px;
+  text-align: center;
+}
+
