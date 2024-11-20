@@ -46,7 +46,7 @@ a.header-center:hover {
   background-color: white;
   text-align: center;
 }
-.container {
+.product-wrapper container {
   width: 70%;
   margin: 0 auto;
 }
