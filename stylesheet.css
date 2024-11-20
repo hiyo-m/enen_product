@@ -53,13 +53,17 @@ a.header-center:hover {
   color: #524748;
 }
 
+.products {
+  width: 80%;
+  margin: 30px 30px;
+}
+
 .product {
-  width: 15%;
-  margin: 50px 30px;
+  width: 25%;
 }
 
 .product-wrapper img{
-  width: 20%;
+  width: 100%;
 }
 
 .product-icon h3{
