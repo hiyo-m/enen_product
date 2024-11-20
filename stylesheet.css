@@ -48,6 +48,7 @@ a.header-center:hover {
 }
 .container {
   width: 70%;
+  margin: 0 auto;
 }
 
 .heading {
@@ -71,11 +72,8 @@ a.header-center:hover {
   position: relative;
 }
 
-.product-icon p {
-  position: absolute;
-  top: 90px;
+.products {
   width: 100%;
-  color: white;
 }
 
 .txt-contents {
