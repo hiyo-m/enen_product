@@ -23,7 +23,7 @@ header {
   margin-left: 100px;
 }
 
-.header-left {
+.header-center {
   float: left;
 }
 
@@ -32,8 +32,12 @@ header {
   display: flex;
 }
 
+.header-center:hover {
+  color: rgba(255, 255, 255, 0.5);
+}
+
 .header-center a {
   line-height: 65px;
-  padding: 0 25px;
+  padding: 0 40px;
   color: black;
 }
