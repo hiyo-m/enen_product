@@ -11,7 +11,7 @@ a {
 header {
   height: 75px;
   width: 100%;
-  background-color: #fffaf0;
+  background-color: white;
   position: fixed;
   top: 0;
   z-index: 10;
