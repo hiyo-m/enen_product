@@ -60,7 +60,8 @@ a.header-center:hover {
 
 .product_manju img{
   display: flex;
-  width: 80%;
+  margin: 20px;
+  width: 70%;
 }
 
 .product-icon h3{
