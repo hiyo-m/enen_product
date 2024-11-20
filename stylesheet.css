@@ -1,14 +1,11 @@
 body {
   margin: 0;
   font-family: "HiraMinProN-W6";
+  background-color: #ffaf0;
 }
 
 a {
   text-decoration: none;
-}
-
-body{
-  background-color: #ffaf0;
 }
 
 header {
