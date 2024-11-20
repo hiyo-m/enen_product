@@ -54,7 +54,6 @@ a.header-center:hover {
 }
 
 .product {
-  float: left;
   width: 15%;
   margin: 50px 30px;
 }
@@ -63,26 +62,16 @@ a.header-center:hover {
   width: 20%;
 }
 
-.product-icon {
-  position: relative;
-}
-
 .product-icon h3{
  font-size: 35px;
   color: #524748;
 }
 
 .product-icon p {
-  position: absolute;
-  top: 90px;
-  width: 100%;
   color: #524748;
 }
 
 .txt-contents {
-  width: 80%;
-  display: inline-block;
-  margin-top: 20px;
   font-size: 20px;
   color: #524748;
 }
