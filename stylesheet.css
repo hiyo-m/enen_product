@@ -41,6 +41,10 @@ a.header-center:hover {
   text-align: center;
 }
 
+.container img{
+  width: 1170px;
+}
+
 .puroduct-wrapper {
   height: 500px;
   padding-bottom: 80px;
