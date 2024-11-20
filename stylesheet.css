@@ -24,12 +24,10 @@ header {
 }
 
 .header-center {
-  float: right;
-  transition: all 0.5s;
+  text-align:center
 }
 
 .header-center a {
-  text-align:center
   line-height: 65px;
   padding: 0 25px;
   color: black;
