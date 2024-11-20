@@ -2,7 +2,6 @@ body {
   margin: 0;
   font-family: "HiraMinProN-W6";
   background-color: #fffaf0;
-  background-image : url() ;
 }
 
 a {
@@ -34,4 +33,5 @@ header {
   padding: 0 40px;
   color: black;
   text-align: center;
+  margin: auto;
 }
