@@ -25,6 +25,7 @@ header {
 
 .header-center {
   text-align:center
+  display: flex;
 }
 
 .header-center a {
