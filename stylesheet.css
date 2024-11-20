@@ -41,36 +41,44 @@ a.header-center:hover {
   width: 100%;
 }
 
-.puroduct-wrapper {
+.product-wrapper {
+  padding-bottom: 80px;
+  background-color: white;
   text-align: center;
-  padding: 0 200px;
 }
 
-.heading h2{
-  text-align: center;
+.heading {
   padding-top: 60px;
   padding-bottom: 30px;
+}
+
+.heading h2 {
+  font-weight: normal;
+  text-align: center;
   font-size: 30px;
   color: #524748;
 }
 
 .product {
-  width: 30%;
+  float: left;
+  width: 25%;
 }
 
-.product_manju img{
-  display: flex;
-  margin: 20px;
-  width: 70%;
+.product-icon {
+  position: relative;
 }
 
-.product-icon h3{
- font-size: 25px;
-  color: #524748;
+.product-icon p {
+  position: absolute;
+  top: 90px;
+  width: 100%;
+  color: white;
 }
 
 .txt-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 20px;
   font-size: 20px;
   color: #524748;
 }
-
