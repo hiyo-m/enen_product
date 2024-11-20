@@ -42,7 +42,6 @@ a.header-center:hover {
 }
 
 .product-wrapper {
-  padding-bottom: 80px;
   background-color: white;
   text-align: center;
   margin: 0 auto;
@@ -52,12 +51,8 @@ a.header-center:hover {
   width: 300px;
 }
 
-.heading {
-  padding-top: 30px;
-}
-
 .heading h2 {
-  border-bottom: 2px solid #524748;
+  border-bottom: 1px solid #524748;
   font-weight: normal;
   text-align: center;
   font-size: 30px;
@@ -68,7 +63,7 @@ a.header-center:hover {
   float: left;
   width: 25%;
   padding: 0 25px;
-  text-align: center;
+  padding-bottom: 40px;
   margin: 0 auto;
 }
 
@@ -80,7 +75,6 @@ a.header-center:hover {
 .txt-contents {
   width: 100%;
   display: inline-block;
-  margin-bottom: 40px;
   font-size: 13px;
   color: #524748;
 }
