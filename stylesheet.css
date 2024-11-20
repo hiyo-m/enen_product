@@ -46,11 +46,12 @@ a.header-center:hover {
   background-color: white;
   text-align: center;
   margin: 0 auto;
-  width: 80%;
+  width: 90%;
 }
 .product-icon img {
-  width: 350px;
+  width: 200px;
   float: left; 
+  padding:0 30px;
 }
 
 .heading {
