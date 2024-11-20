@@ -46,9 +46,11 @@ a.header-center:hover {
 }
 
 .heading h2{
+  text-align: center;
   padding-top: 60px;
   padding-bottom: 30px;
-  font-size: 40px;
+  font-size: 30px;
+  color: #524748;
 }
 
 .product {
@@ -57,14 +59,17 @@ a.header-center:hover {
   margin: 50px 30px;
 }
 
-.product img{
-  float: left;
-  width: 15%;
-  margin: 50px 30px;
+.product-wrapper img{
+  width: 20%;
 }
 
 .product-icon {
   position: relative;
+}
+
+.product-icon h3{
+ font-size: 35px;
+  color: #524748;
 }
 
 .product-icon p {
