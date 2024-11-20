@@ -19,3 +19,8 @@ header {
   top: 0;
   z-index: 10;
 }
+
+.logo {
+  width: 124px;
+  margin-top: 20px;
+}
