@@ -24,10 +24,6 @@ header {
 }
 
 .header-center {
-  float: left;
-}
-
-.header-center {
   float:　　center
   display: flex;
 }
@@ -37,7 +33,6 @@ header {
 }
 
 .header-center a {
-  display: inline-block;
   line-height: 65px;
   padding: 0 40px;
   color: black;
