@@ -7,6 +7,10 @@ a {
   text-decoration: none;
 }
 
+body{
+  background-color: #ffaf0;
+}
+
 header {
   height: 65px;
   width: 100%;
