@@ -43,7 +43,7 @@ a.header-center:hover {
 
 .puroduct-wrapper {
   text-align: center;
-  padding: 0 100px;
+  padding: 0 200px;
 }
 
 .heading h2{
@@ -55,10 +55,10 @@ a.header-center:hover {
 }
 
 .product {
-  width: 40%;
+  width: 30%;
 }
 
-.product_manju {
+.product_manju img{
   display: flex;
 }
 
@@ -68,7 +68,6 @@ a.header-center:hover {
 }
 
 .txt-contents {
-  display: inline-block;
   font-size: 20px;
   color: #524748;
 }
