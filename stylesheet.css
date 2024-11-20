@@ -24,7 +24,7 @@ header {
 }
 
 .header-center {
-  text-align:center
+  float:center
   display: flex;
 }
 
