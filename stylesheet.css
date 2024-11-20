@@ -43,17 +43,18 @@ a.header-center:hover {
 
 .puroduct-wrapper {
   text-align: center;
-  margin: 20px 30px;
 }
 
 .heading {
   padding-top: 60px;
   padding-bottom: 30px;
+  font-size: 40px;
 }
 
 .product {
   float: left;
-  width: 25%;
+  width: 15%;
+  margin: 50px 30px;
 }
 
 .product-icon {
