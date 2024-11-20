@@ -46,6 +46,9 @@ a.header-center:hover {
   background-color: white;
   text-align: center;
 }
+.product-wrapper container {
+  width: 70%;
+}
 
 .heading {
   padding-top: 60px;
