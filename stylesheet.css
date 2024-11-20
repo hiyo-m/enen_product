@@ -1,3 +1,7 @@
+* {
+	outline: 1px solid magenta;
+}
+
 body {
   margin: 0;
   font-family: "HiraMinProN-W6";
