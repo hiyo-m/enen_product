@@ -54,24 +54,15 @@ a.header-center:hover {
 }
 
 .products {
-  width: 80%;
-  margin: 100px 30px;
+  margin: 40px 100px;
 }
 
 .product {
   width: 25%;
 }
 
-.product-wrapper img{
-  width: 100%;
-}
-
 .product-icon h3{
  font-size: 25px;
-  color: #524748;
-}
-
-.product-icon p {
   color: #524748;
 }
 
