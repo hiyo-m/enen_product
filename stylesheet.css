@@ -8,8 +8,6 @@ a {
   text-decoration: none;
 }
 
-
-
 header {
   height: 75px;
   width: 100%;
@@ -40,8 +38,6 @@ a.header-center:hover {
 }
 
 .puroduct-wrapper {
-  height: 500px;
-  padding-bottom: 80px;
   text-align: center;
 }
 
