@@ -41,8 +41,9 @@ a.header-center:hover {
   width: 100%;
 }
 
-.puroduct-wrapper container{
+.puroduct-wrapper {
   text-align: center;
+  padding: 0 100px;
 }
 
 .heading h2{
@@ -53,12 +54,8 @@ a.header-center:hover {
   color: #524748;
 }
 
-.products {
-  margin: 40px 100px;
-}
-
 .product {
-  width: 25%;
+  width: 40%;
 }
 
 .product-icon h3{
@@ -67,6 +64,7 @@ a.header-center:hover {
 }
 
 .txt-contents {
+  display: inline-block;
   font-size: 20px;
   color: #524748;
 }
