@@ -28,7 +28,7 @@ header {
   float: left;
 }
 
-.header-center:hover {
+a.header-center:hover {
   opacity: 1;
 }
 
