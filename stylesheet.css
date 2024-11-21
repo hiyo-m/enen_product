@@ -110,4 +110,12 @@ a.header-center:hover {
   color: #524748;
 }
 
-.
+..heading h3 {
+  border-bottom: 1px solid #524748;
+  margin: auto;
+  margin-bottom: 60px;
+  width: 85%;
+  text-align: center;
+  font-size: 30px;
+  color: #524748;
+}
