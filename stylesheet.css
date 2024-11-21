@@ -24,17 +24,17 @@ header {
   float: left;
 }
 
-a.header-center:hover {
-  opacity: 1;
-}
-
 .header-center a {
   margin: auto;
   line-height: 75px;
   padding: 0 60px;
-  color: black;
-  opacity: 0.8;
+  color: #524748;
+  opacity: 1;
   text-align: center;
+}
+
+a.header-center:hover {
+  opacity: 0.7;
 }
 
 .top-wrapper img{
