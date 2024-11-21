@@ -111,7 +111,6 @@ a.header-center:hover {
 }
 
 .story-wrapper {
-  display: flex;
   background-color: white;
   text-align: center;
   margin: 0 auto;
@@ -120,11 +119,11 @@ a.header-center:hover {
 }
 
 .heading2 h4 {
+  text-align: center;
   border-bottom: 1px solid #524748;
   margin: auto;
   margin-bottom: 40px;
   width: 85%;
-  text-align: center;
   font-size: 30px;
   color: #524748;
 }
