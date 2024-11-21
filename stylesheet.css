@@ -119,10 +119,9 @@ a.header-center:hover {
 
 .heading2 h4 {
   border-bottom: 1px solid #524748;
-  margin: auto;
-  margin: 150px 0 60px 0;
-  width: 85%;
   text-align: center;
+  margin: auto;
+  width: 85%;
   font-size: 30px;
   color: #524748;
 }
