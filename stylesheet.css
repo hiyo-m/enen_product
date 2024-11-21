@@ -113,9 +113,20 @@ a.header-center:hover {
 .heading h3 {
   border-bottom: 1px solid #524748;
   margin: auto;
-  margin-bottom: 60px;
+  margin: 150px 0 60px 0;
   width: 85%;
   text-align: center;
   font-size: 30px;
+  color: #524748;
+}
+
+.story-icon img {
+  width: 300px;
+}
+
+.story txt-contents {
+  width: 100%;
+  display: inline-block;
+  font-size: 13px;
   color: #524748;
 }
