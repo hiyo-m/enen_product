@@ -63,7 +63,7 @@ a.header-center:hover {
 .heading h2 {
   border-bottom: 1px solid #524748;
   margin: auto;
-  margin-bottom: 60px;
+  margin-bottom: 40px;
   width: 85%;
   text-align: center;
   font-size: 30px;
@@ -108,6 +108,13 @@ a.header-center:hover {
   display: inline-block;
   font-size: 13px;
   color: #524748;
+}
+
+.story-wrapper {
+  background-color: white;
+  text-align: center;
+  margin: 0 auto;
+  width: 100%;
 }
 
 .heading h3 {
